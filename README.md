@@ -23,9 +23,9 @@
 - Node.js (v14.17.0 hoặc cao hơn)
 - MongoDB (v5.0.0 hoặc cao hơn)
 2. cài đặt
-    2.1.Clone dự án từ GitHub:
-    - git clone https://github.com/your-username/your-repo-name.git
-    2.2. cài đặt Back-end:
+    * Clone dự án từ GitHub:
+    - git clone https://github.com/SherLockLam-ai/Movie-Web
+    * cài đặt Back-end:
     - cd server
     - npm install
     - tạo file .env và thêm thông tin kết nối MongoDB: MONGODB_URL=mongodb://localhost:27017/MoonFlix
@@ -43,5 +43,5 @@
     npm start
 
 Tác giả: Bùi Văn Lâm
-GitHub: 
+GitHub: https://github.com/SherLockLam-ai/Movie-Web
 Giấy phép: MIT
